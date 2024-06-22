@@ -1,2 +1,2 @@
 # Convertinator
-a list of things to covert a file to another file
+a list of things to convert a file to another file
